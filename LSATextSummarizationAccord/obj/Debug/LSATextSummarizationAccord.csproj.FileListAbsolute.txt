@@ -1,0 +1,40 @@
+C:\Users\SAKURA\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\bin\Debug\LSATextSummarizationAccord.exe
+C:\Users\SAKURA\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\bin\Debug\LSATextSummarizationAccord.pdb
+C:\Users\SAKURA\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\bin\Debug\VnToolkit.dll
+C:\Users\SAKURA\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\bin\Debug\HtmlAgilityPack.dll
+C:\Users\SAKURA\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\obj\Debug\LSATextSummarizationAccord.csprojResolveAssemblyReference.cache
+C:\Users\SAKURA\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\obj\Debug\LSATextSummarizationAccord.Properties.Resources.resources
+C:\Users\SAKURA\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\obj\Debug\LSATextSummarizationAccord.csproj.GenerateResource.Cache
+C:\Users\SAKURA\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\obj\Debug\LSATextSummarizationAccord.exe
+C:\Users\SAKURA\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\obj\Debug\LSATextSummarizationAccord.pdb
+C:\Users\SAKURA\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\obj\Debug\LSATextSummarizationAccord.Form1.resources
+C:\Users\SAKURA\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\bin\Debug\Accord.dll
+C:\Users\SAKURA\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\bin\Debug\Accord.MachineLearning.dll
+C:\Users\SAKURA\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\bin\Debug\Accord.Math.dll
+C:\Users\SAKURA\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\bin\Debug\Accord.Neuro.dll
+C:\Users\SAKURA\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\bin\Debug\Accord.Statistics.dll
+C:\Users\SAKURA\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\bin\Debug\Accord.Genetic.dll
+C:\Users\Alviss\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\obj\Debug\LSATextSummarizationAccord.exe
+C:\Users\Alviss\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\obj\Debug\LSATextSummarizationAccord.pdb
+C:\Users\Alviss\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\bin\Debug\LSATextSummarizationAccord.exe
+C:\Users\Alviss\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\bin\Debug\LSATextSummarizationAccord.pdb
+C:\Users\Alviss\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\bin\Debug\Accord.Genetic.dll
+C:\Users\Alviss\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Alviss\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\obj\Debug\LSATextSummarizationAccord.csprojResolveAssemblyReference.cache
+C:\Users\Alviss\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\obj\Debug\LSATextSummarizationAccord.Form1.resources
+C:\Users\Alviss\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\obj\Debug\LSATextSummarizationAccord.Properties.Resources.resources
+C:\Users\Alviss\Desktop\LSATextSummarizationAccord\LSATextSummarizationAccord\obj\Debug\LSATextSummarizationAccord.csproj.GenerateResource.Cache
+C:\Users\Alviss\Desktop\bao cao\sumariza\LSATextSummarizationAccord\obj\Debug\LSATextSummarizationAccord.exe
+C:\Users\Alviss\Desktop\bao cao\sumariza\LSATextSummarizationAccord\obj\Debug\LSATextSummarizationAccord.pdb
+E:\Bao Cao Cong Nghe Phan Mem\sumariza\LSATextSummarizationAccord\obj\Debug\LSATextSummarizationAccord.exe
+E:\Bao Cao Cong Nghe Phan Mem\sumariza\LSATextSummarizationAccord\obj\Debug\LSATextSummarizationAccord.pdb
+E:\Bao Cao Cong Nghe Phan Mem\tomtat\LSATextSummarizationAccord\obj\Debug\LSATextSummarizationAccord.exe
+E:\Bao Cao Cong Nghe Phan Mem\tomtat\LSATextSummarizationAccord\obj\Debug\LSATextSummarizationAccord.pdb
+E:\Bao Cao Cong Nghe Phan Mem\tomtat\LSATextSummarizationAccord\bin\Debug\LSATextSummarizationAccord.exe
+E:\Bao Cao Cong Nghe Phan Mem\tomtat\LSATextSummarizationAccord\bin\Debug\LSATextSummarizationAccord.pdb
+E:\Bao Cao Cong Nghe Phan Mem\tomtat\LSATextSummarizationAccord\bin\Debug\Accord.Genetic.dll
+E:\Bao Cao Cong Nghe Phan Mem\tomtat\LSATextSummarizationAccord\bin\Debug\HtmlAgilityPack.dll
+E:\Bao Cao Cong Nghe Phan Mem\tomtat\LSATextSummarizationAccord\obj\Debug\LSATextSummarizationAccord.csprojResolveAssemblyReference.cache
+E:\Bao Cao Cong Nghe Phan Mem\tomtat\LSATextSummarizationAccord\obj\Debug\LSATextSummarizationAccord.Form1.resources
+E:\Bao Cao Cong Nghe Phan Mem\tomtat\LSATextSummarizationAccord\obj\Debug\LSATextSummarizationAccord.Properties.Resources.resources
+E:\Bao Cao Cong Nghe Phan Mem\tomtat\LSATextSummarizationAccord\obj\Debug\LSATextSummarizationAccord.csproj.GenerateResource.Cache
